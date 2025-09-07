@@ -1,0 +1,252 @@
+DEBUG - 2025-02-19 05:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-19 05:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:07:30 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+)
+
+INFO - 2025-02-19 05:07:30 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+)
+
+DEBUG - 2025-02-19 05:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:07:32 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+)
+
+DEBUG - 2025-02-19 05:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:09:29 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/login
+)
+
+INFO - 2025-02-19 05:09:30 --> Stored Hashed Password from DB: $2y$10$Su2Ml.E/QPmTi1AVZD6YA.7HtraD53Dk5XELZ5Sur6W/z/rSWB5/i
+INFO - 2025-02-19 05:09:30 --> Entered Password: 1234567
+INFO - 2025-02-19 05:09:30 --> Password Verification Result: SUCCESS
+DEBUG - 2025-02-19 05:09:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:09:30 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/login
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 05:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:10:41 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/dashboard
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 05:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:10:44 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/dashboard
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 05:10:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:10:46 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/dashboard/issueGatePassForm
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 05:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:10:50 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/dashboard
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 05:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:10:52 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/dashboard/vehiclesInside
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 05:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:10:54 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/dashboard
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 05:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:10:56 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/dashboard/addVehicleUserForm
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 05:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:12:02 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/dashboard
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 05:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 05:12:05 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739941650
+    [_ci_previous_url] => http://localhost/index.php/dashboard/issueGatePassForm
+    [id] => 16
+    [name] => Admin
+    [role] => SuperAdmin
+    [privileges] => Array
+        (
+            [0] => scan_number_plate
+            [1] => issue_gate_pass
+            [2] => view_vehicles_inside
+            [3] => add_vehicle_user
+            [4] => register_user
+        )
+
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-02-19 08:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 08:13:28 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739952808
+)
+
+DEBUG - 2025-02-19 08:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 08:13:28 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739952808
+)
+
+DEBUG - 2025-02-19 11:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 11:29:00 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739964540
+)
+
+DEBUG - 2025-02-19 11:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-19 11:29:00 --> Session Data in Filter: Array
+(
+    [__ci_last_regenerate] => 1739964540
+)
+
